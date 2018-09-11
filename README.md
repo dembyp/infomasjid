@@ -13,8 +13,7 @@ Fitur:
 4. Menampilkan kegiatan
 
 ## Web Service
-Language :
-Json
+JSON
 
 ## Backend
 HTML, Bootstrap, JavaScript, JQuery, Php and MySQL
