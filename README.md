@@ -1,4 +1,7 @@
 # Informasi Mesjid
+**Project Komputasi Bergerak dan Teknologi Web**
+Demby Pratama
+
 ## Frontend
 HTML, Javascript, Jquery, Bootstrap
 
