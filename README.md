@@ -1,9 +1,6 @@
 # Informasi Mesjid
 ## Frontend
-Tools and Language :
-1. HTML
-2. Javascript
-3. Bootstrap
+HTML, Javascript, Jquery, Bootstrap
 
 Fitur:
 1. Menampilkan nama 
