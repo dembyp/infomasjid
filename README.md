@@ -18,6 +18,7 @@ HTML, Bootstrap, JavaScript, JQuery, Php and MySQL
 Fitur:
 1. Login
 2. Dashboard Pengelola
+⋅⋅1. Ordered sub-list
 --1. Add, Edit, Delete Profil Pengelola
 --2. Add, Edit, Delete Profil Masjid
 --3. Add, Edit, Delete Kegiatan
