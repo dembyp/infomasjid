@@ -1,4 +1,4 @@
-# Informasi Mesjid
+# Informasi Kegiatan Mesjid
 **Project Komputasi Bergerak dan Teknologi Web**
 
 By Demby Pratama
@@ -20,8 +20,8 @@ HTML, Bootstrap, JavaScript, JQuery, Php and MySQL
 
 Fitur:
 1. Login
-2. Dashboard Pengelola
-   1. Add, Edit, Delete Profil Pengelola
+2. Dashboard Kontributor
+   1. Add, Edit, Delete Profil Kontributor
 3. Dashboard Masjid
    1. Add, Edit, Delete Profil Masjid
    2. Add, Edit, Delete Kegiatan
