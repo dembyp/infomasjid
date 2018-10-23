@@ -7,10 +7,9 @@ By Demby Pratama
 HTML, Javascript, Jquery, Bootstrap
 
 Fitur:
-1. Menampilkan nama 
-2. Menampilkan profil 
-3. Menampilkan lokasi
-4. Menampilkan kegiatan
+1. Menampilkan profil masjid
+2. Menampilkan profil kontributor
+3. Menampilkan kegiatan masjid
 
 ## Web Service
 JSON
