@@ -45,8 +45,7 @@ Pengguna dapat:
 * Buka url berikut dengan browser http://localhost:8000
 
 ## Screenshot
-![Awal]<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png" width="48">
-![Awal](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png)
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png" width="200">
 ![Login](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-02-login.png)
 ![Daftar](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-03-daftar.png)
 ![Reset Password](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-04-resetpassword.png)
