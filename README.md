@@ -45,12 +45,12 @@ Pengguna dapat:
 * Buka url berikut dengan browser http://localhost:8000
 
 ## Screenshot
-Awal <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png" width="400">
-Login <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-02-login.png" width="400">
-Daftar <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-03-daftar.png" width="400">
-Reset Password <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-04-resetpassword.png" width="400">
-List Masjid <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-05-list-masjid.png" width="400">
-Tambah Masjid<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-06-tambahmasjid.png" width="400">
-List Kegiatan<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-07-list-kegiatan.png" width="400">
-Tambah Kegiatan<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-08-tambahkegiatan.png" width="400">
-Ubah Password<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-09-ubahpassword.png" width="400">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png" width="600">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-02-login.png" width="600">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-03-daftar.png" width="600">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-04-resetpassword.png" width="600">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-05-list-masjid.png" width="600">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-06-tambahmasjid.png" width="600">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-07-list-kegiatan.png" width="600">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-08-tambahkegiatan.png" width="600">
+<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-09-ubahpassword.png" width="600">
