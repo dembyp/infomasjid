@@ -1,4 +1,4 @@
-# Informasi Kegiatan Mesjid
+=50x# Informasi Kegiatan Mesjid
 **Project Komputasi Bergerak dan Teknologi Web**
 
 By Demby Pratama
@@ -45,9 +45,9 @@ Pengguna dapat:
 * Buka url berikut dengan browser http://localhost:8000
 
 ## Screenshot
-![Awal](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png =100x)
+![Awal](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png)
 ![Login](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-02-login.png)
-![Daftar](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-03-daftar.png
+![Daftar](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-03-daftar.png)
 ![Reset Password](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-04-resetpassword.png)
 ![List Masjid](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-05-list-masjid.png)
 ![Tambah Masjid](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-06-tambahmasjid.png)
