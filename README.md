@@ -1,4 +1,4 @@
-=50x# Informasi Kegiatan Mesjid
+# Informasi Kegiatan Mesjid
 **Project Komputasi Bergerak dan Teknologi Web**
 
 By Demby Pratama
