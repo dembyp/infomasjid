@@ -45,12 +45,12 @@ Pengguna dapat:
 * Buka url berikut dengan browser http://localhost:8000
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png" width="400">
-![Login](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-02-login.png)
-![Daftar](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-03-daftar.png)
-![Reset Password](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-04-resetpassword.png)
-![List Masjid](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-05-list-masjid.png)
-![Tambah Masjid](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-06-tambahmasjid.png)
-![List Kegiatan](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-07-list-kegiatan.png)
-![Tambah Kegiatan](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-08-tambahkegiatan.png)
-![Ubah Password](https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-09-ubahpassword.png)
+Awal <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-01-halaman_depan.png" width="400">
+Login <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-02-login.png" width="400">
+Daftar <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-03-daftar.png" width="400">
+Reset Password <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-04-resetpassword.png" width="400">
+List Masjid <img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-05-list-masjid.png" width="400">
+Tambah Masjid<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-06-tambahmasjid.png" width="400">
+List Kegiatan<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-07-list-kegiatan.png" width="400">
+Tambah Kegiatan<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-08-tambahkegiatan.png" width="400">
+Ubah Password<img src="https://raw.githubusercontent.com/dembyp/infomasjid/master/images/sikam-09-ubahpassword.png" width="400">
