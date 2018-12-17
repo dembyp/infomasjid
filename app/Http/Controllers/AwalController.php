@@ -19,7 +19,7 @@ class AwalController extends Controller
     public function index()
     {
 
-        $kegiatans = Kegiatan::with('masjid')->take(6)->get();
+        $kegiatans = Kegiatan::with('masjid')->orderBy('created_at','DESC')->take(6)->get();
         return view('awal', compact('kegiatans'));
     }
 
@@ -39,7 +39,7 @@ class AwalController extends Controller
     public function list()
     {
       $data = array(
-        'kegiatans' => Kegiatan::all()
+        'kegiatans' => Kegiatan::orderBy('waktu_mulai','DESC')->get()
       );
       return view('listawal',$data);
            // ->with('i', (request()->input('page',1) -1)*5);
