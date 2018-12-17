@@ -21,7 +21,7 @@
                         @csrf
 
                         <div class="form-group ">
-                            <label for="email" class="col-md-4 control-label">{{ __('E-Mail Address') }}</label>
+                            <label for="email" class="col-md-4 control-label">{{ __('Alamat E-Mail') }}</label>
 
                             <div class="col-md-6">
                                 <input id="email" type="email" class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" name="email" value="{{ old('email') }}" required>
@@ -37,7 +37,7 @@
                         <div class="form-group">
                             <div class="col-md-6 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
-                                    {{ __('Send Password Reset Link') }}
+                                    {{ __('Kirim Link Reset Password') }}
                                 </button>
                             </div>
                         </div>

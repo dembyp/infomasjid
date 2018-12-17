@@ -36,6 +36,7 @@
       <div class="col-md-12">
         <a href="{{ route('masjid.index') }}" class="btn btn-sm btn-success">Data Masjid</a>
         <a href="{{ route('kegiatan.index') }}" class="btn btn-sm btn-success">Data Kegiatan</a>
+        
       </div>
     </div>
   </div>

@@ -16,7 +16,7 @@
                         <input type="hidden" name="token" value="{{ $token }}">
 
                         <div class="form-group ">
-                            <label for="email" class="col-md-4 control-label">{{ __('E-Mail Address') }}</label>
+                            <label for="email" class="col-md-4 control-label">{{ __('Reset E-Mail') }}</label>
 
                             <div class="col-md-6">
                                 <input id="email" type="email" class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" name="email" value="{{ $email ?? old('email') }}" required autofocus>
@@ -44,7 +44,7 @@
                         </div>
 
                         <div class="form-group ">
-                            <label for="password-confirm" class="col-md-4 control-label">{{ __('Confirm Password') }}</label>
+                            <label for="password-confirm" class="col-md-4 control-label">{{ __('Konfirmasi Password') }}</label>
 
                             <div class="col-md-6">
                                 <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required>

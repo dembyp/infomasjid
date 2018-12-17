@@ -1,21 +1,25 @@
-@extends('layouts.app')
+@extends('layouts.template')
 
-@section('content')
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Verify Your Email Address') }}</div>
+@section('contentWebsite')
 
-                <div class="card-body">
+<div class="well well-lg">
+    <div class="container">
+        <div class="row justify-content-center">
+        <div class="col-md-8 col-md-offset-2">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                <h3 class="panel-title">{{ __('Silahkan verifikasi Alamat Email Anda') }}</h3>
+                </div>
+                    <div class="panel-body">
                     @if (session('resent'))
                         <div class="alert alert-success" role="alert">
-                            {{ __('A fresh verification link has been sent to your email address.') }}
+                            {{ __('Link verifikasi telah dikirimkan ke email Anda.') }}
                         </div>
                     @endif
 
-                    {{ __('Before proceeding, please check your email for a verification link.') }}
-                    {{ __('If you did not receive the email') }}, <a href="{{ route('verification.resend') }}">{{ __('click here to request another') }}</a>.
+                    {{ __('Silahkan verifikasi melalui link yang dikirimkan melalui email Anda.') }}
+                    {{ __('Jika anda tidak menerima Email, silahkan ') }}, <a href="{{ route('verification.resend') }}">{{ __('klik disini untuk mengulang pengiriman link verifikasi') }}</a>.
+                    </div>
                 </div>
             </div>
         </div>
